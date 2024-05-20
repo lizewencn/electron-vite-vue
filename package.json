@@ -1,9 +1,9 @@
 {
-  "name": "electron-vue-vite",
+  "name": "ta",
   "version": "28.1.0",
   "main": "dist-electron/main/index.js",
-  "description": "Really simple Electron + Vue + Vite boilerplate.",
-  "author": "草鞋没号 <308487730@qq.com>",
+  "description": "A app of teaching assistant for wzhf",
+  "author": "lzw <lizewencn@126.com>",
   "license": "MIT",
   "private": true,
   "keywords": [
